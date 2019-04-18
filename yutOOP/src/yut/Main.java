@@ -10,6 +10,8 @@ public class Main {
 		b.getBoard();
 		y.yuthrow();
 		
+		
+		System.out.println("Hello World");
 	
 		
 	}
